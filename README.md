@@ -7,4 +7,7 @@ Placing emphasis on dynamics arising from physical reality and business problems
 
 The course is open to full-time Stanford graduate students, particularly those working in operations research, statistics, economics, or engineering.
 
+**Open Lecture Sign-Ups** Fill out this [form](https://forms.gle/KWRJnMp9M9kVz2E27) if you'd like to be notified for one of the guest lectures open to the broader Stanford community. Stanford login required. 
+
 [Explore Courses Link](https://explorecourses.stanford.edu/search?q=OIT+677&academicYear=20252026)
+
