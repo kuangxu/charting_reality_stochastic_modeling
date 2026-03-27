@@ -3,7 +3,7 @@
 [Explore Courses Link](https://explorecourses.stanford.edu/search?q=OIT+677&academicYear=20252026)
 
 ## Instructor
-Prof. Kuang Xu
+[Prof. Kuang Xu](https://kuangxu.org)
 
 ## Description
 Many decision-making systems benefit from the use of stochastic models. These models help an algorithm or AI agent make sense of the world and understand how the effects of various actions propagate. However, choosing the right model and refining it with data remains a daunting challenge.
