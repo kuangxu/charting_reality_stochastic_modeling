@@ -11,3 +11,9 @@ The course is open to full-time Stanford graduate students, particularly those w
 
 [Explore Courses Link](https://explorecourses.stanford.edu/search?q=OIT+677&academicYear=20252026)
 
+
+
+## Chapter PDFs
+<!-- CHAPTER_LINKS_START -->
+- [Chapter 1](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter1.pdf)
+<!-- CHAPTER_LINKS_END -->
