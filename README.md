@@ -17,3 +17,20 @@ The course is open to full-time Stanford graduate students, particularly those w
 <!-- CHAPTER_LINKS_START -->
 - [Chapter 1: Introduction: Charting Reality with Stochastic Modeling](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter1.pdf)
 <!-- CHAPTER_LINKS_END -->
+
+## Citation
+
+If you reference these notes, please cite:
+
+Xu Kuang (2026). *Charting Reality with Stochastic Modeling*. https://github.com/kuangxu/charting_reality_stochastic_modeling
+
+BibTeX:
+```bibtex
+@misc{xu2026charting,
+  author       = {Xu Kuang},
+  title        = {Charting Reality with Stochastic Modeling},
+  year         = {2026},
+  note         = {Lecture notes},
+  howpublished = {\url{https://github.com/kuangxu/charting_reality_stochastic_modeling}}
+}
+```
