@@ -1,4 +1,4 @@
-## Notes for Charting Reality with Stochastic Modeling, Spring 2026
+##Charting Reality with Stochastic Modeling, Spring 2026
 [Kuang Xu](https://kuangxu.org)
 
 Many decision-making systems benefit from the use of stochastic models. These models help an algorithm or AI agent make sense of the world and understand how the effects of various actions propagate. However, choosing the right model and refining it with data remains a daunting challenge.
