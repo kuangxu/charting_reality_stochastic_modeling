@@ -34,3 +34,9 @@ BibTeX:
   howpublished = {\url{https://github.com/kuangxu/charting_reality_stochastic_modeling}}
 }
 ```
+
+
+## Full Book
+<!-- FULL_BOOK_LINK_START -->
+- [Full Book PDF](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/Stochastic_Modeling.pdf)
+<!-- FULL_BOOK_LINK_END -->
