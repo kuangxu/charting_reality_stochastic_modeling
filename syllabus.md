@@ -2,13 +2,13 @@
 
 ## Instructor
 
-**Prof. Kuang Xu**
+**[Prof. Kuang Xu](http://kuangxu.org)**
 
 ## Course Links
 
-- Lecture notes
-- Explore Courses link
-- Open lecture sign-ups: Fill out this form if you'd like to be notified for one of the guest lectures open to the broader Stanford community (Stanford login required).
+- [Lecture Notes](https://github.com/kuangxu/charting_reality_stochastic_modeling)
+- [Explore Courses Link](https://explorecourses.stanford.edu/search?q=OIT+677&academicYear=20252026)
+- Open lecture sign-ups: [Fill out this form](https://forms.gle/2mAP6EViQ2aD9MD2A) if you'd like to be notified for one of the guest lectures open to the broader Stanford community (Stanford login required).
 
 ## Description
 
@@ -30,12 +30,6 @@ Guest speakers include:
 The course is open to full-time Stanford graduate students, and in particular those working in operations research, statistics, economics, or engineering.
 
 This class will be in-person only, with no virtual options.
-
-## Faculty Assistant
-
-- Ken Smeton
-- Faculty Building BC347
-- ktsmeton@stanford.edu
 
 ## Prerequisites
 
@@ -86,4 +80,4 @@ Students should contact the OAE as soon as possible since timely notice is neede
 
 - Office of Accessible Education: 563 Salvatierra Walk
 - Phone: 650-723-1066
-- URL: https://oae.stanford.edu/
+- URL: [https://oae.stanford.edu/](https://oae.stanford.edu/)
