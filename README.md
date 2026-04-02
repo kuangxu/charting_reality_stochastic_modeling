@@ -11,12 +11,14 @@ The course is open to full-time Stanford graduate students, particularly those w
 
 [Explore Courses Link](https://explorecourses.stanford.edu/search?q=OIT+677&academicYear=20252026)
 
+[Course Syllabus: OIT 677 — Chart Reality with Stochastic Modeling](https://docs.google.com/document/u/0/d/1Zh8ClX3q6RlBFREMw3q73LzPxAbI00Mr7PO2EvknmNY/mobilebasic#heading=h.6cxd4aollu1t)
+
 
 
 ## Chapter PDFs
 <!-- CHAPTER_LINKS_START -->
 - [Chapter 1: Introduction: Charting Reality with Stochastic Modeling](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter1.pdf)
-- [Chapter 2: Modeling Congestion - From Telephony To AI Inference](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter2.pdf)
+- [Chapter 2: Modeling Congestion: From Telephony To AI Inference](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter2.pdf)
 <!-- CHAPTER_LINKS_END -->
 
 
