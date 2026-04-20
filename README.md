@@ -20,6 +20,7 @@ The course is open to full-time Stanford graduate students, particularly those w
 - [Chapter 1: Introduction: Charting Reality with Stochastic Modeling](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter1.pdf)
 - [Chapter 2: Modeling Congestion: Telephony, AI Inference, and the Economics of Adoption](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter2.pdf)
 - [Chapter 3: Learning and Evaluation for Mechanistic Modeling](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter3.pdf)
+- [Chapter 4: Modeling Causal Impact via Randomized Experiments](https://github.com/kuangxu/charting_reality_stochastic_modeling/blob/main/chapters/chapter4.pdf)
 <!-- CHAPTER_LINKS_END -->
 
 
