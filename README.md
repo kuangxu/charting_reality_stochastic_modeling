@@ -7,9 +7,9 @@ Placing emphasis on dynamics arising from physical reality and business problems
 
 The course is open to full-time Stanford graduate students, particularly those working in operations research, statistics, economics, or engineering.
 
-**Open Lecture Sign-Ups** Fill out this [form](https://forms.gle/KWRJnMp9M9kVz2E27) if you'd like to be notified for one of the guest lectures open to the broader Stanford community. Stanford login required. 
+**Open Lecture Sign-Ups** Fill out this [form](https://forms.gle/KWRJnMp9M9kVz2E27) if you'd like to be notified for one of the guest lectures open to the broader Stanford community. Stanford login required.
 
-[Course Syllabus: OIT 677 — Chart Reality with Stochastic Modeling][https://docs.google.com/document/u/0/d/1Zh8ClX3q6RlBFREMw3q73LzPxAbI00Mr7PO2EvknmNY]
+**Course Syllabus** [OIT 677 — Chart Reality with Stochastic Modeling](https://docs.google.com/document/u/0/d/1Zh8ClX3q6RlBFREMw3q73LzPxAbI00Mr7PO2EvknmNY)
 
 
 
